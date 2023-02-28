@@ -8,6 +8,10 @@ namespace task14N
 {
     internal class Program
     {
+        private static void Print() 
+        {
+
+        }
         static void Main(string[] args)
         {
             string strings;
